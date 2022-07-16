@@ -116,7 +116,7 @@ Error: FormatException: SyntaxError: Unexpected token I in JSON at position 0
 * Windows 11
 * Flutter 3
 * Visual Studio Code 1.69
-* opensea_dart 0.0.2
+* `opensea_dart` 0.0.2
 
 # 補足
 
