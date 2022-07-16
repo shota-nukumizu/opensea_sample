@@ -117,3 +117,9 @@ Error: FormatException: SyntaxError: Unexpected token I in JSON at position 0
 * Flutter 3
 * Visual Studio Code 1.69
 * opensea_dart 0.0.2
+
+# 補足
+
+APIを取得するにはOpensea公式からのGoogle Formに回答する必要があるため開発は断念。(**しかも開発目的やGitHubを共有しなければならず、即時に使えるわけではない**)
+
+しばらくはWeb3の領域には着手しないかも...。
